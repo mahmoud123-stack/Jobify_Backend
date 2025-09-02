@@ -1,4 +1,4 @@
-# CareerCraft Authentication API
+# Jobify Authentication API
 
 A comprehensive authentication system built with Node.js, Express, and MongoDB.
 
