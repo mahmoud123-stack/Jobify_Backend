@@ -10,7 +10,7 @@ app.use(cors());
 //  Using express.json() to parse the body of the request
 app.use(express.json());
 
-//  Routes
+//  All App Routes
 app.get("/", (req, res) => {
   res.send("This Is Test EndPoint => Requested Success!");
 });
